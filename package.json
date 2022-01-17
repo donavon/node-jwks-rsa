@@ -9,7 +9,7 @@
     "axios": "^0.19.2",
     "debug": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
-    "limiter": "^1.1.4",
+    "limiter": "^1.1.5",
     "lru-memoizer": "^2.0.1",
     "ms": "^2.1.2"
   },
