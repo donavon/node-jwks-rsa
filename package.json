@@ -10,7 +10,7 @@
     "debug": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
     "limiter": "^1.1.4",
-    "lru-memoizer": "^2.0.1",
+    "lru-memoizer": "^2.1.4",
     "ms": "^2.1.2"
   },
   "devDependencies": {
